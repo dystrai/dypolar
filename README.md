@@ -1,2 +1,2 @@
 # dypolar
-Playing with polar coordinates
+Playing with polar coordinates.
